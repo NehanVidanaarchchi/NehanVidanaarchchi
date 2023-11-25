@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehanvidanaarchchi&label=Profile%20views&color=0e75b6&style=flat" alt="nehanvidanaarchchi" /> </p>
 
+- 💬 Ask me about **JAVA, Python, Database, WordPress, Figma,**
+
 - 📫 How to reach me **nehanpavinda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
