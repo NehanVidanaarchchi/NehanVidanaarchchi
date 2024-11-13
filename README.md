@@ -2,7 +2,7 @@
 <h3 align="center">Fullstack Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehanvidanaarchchi&label=Profile%20views&color=0e75b6&style=flat" alt="nehanvidanaarchchi" /> </p>
--  🎓 I’m currently learning **BEng(Hons) Software Engineering at University of Westminster**
+- 🎓 I’m currently learning **BEng(Hons) Software Engineering at University of Westminster**
 
 - 💬 Ask me about **JAVA, Python, Database, WordPress, Figma,**
 
