@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nehanvidanaarchchi&label=Profile%20views&color=0e75b6&style=flat" alt="nehanvidanaarchchi" /> </p>
 - 🎓 I’m currently learning **BEng(Hons) Software Engineering at University of Westminster**
 
-- 💬 Ask me about **JAVA, Python, Database, WordPress, Figma,**
+- 💬 Ask me about **JAVA, Python, Database, WordPress, Figma, React**
 
 - 📫 How to reach me **nehanpavinda@gmail.com**
 
