@@ -6,7 +6,7 @@
 
 - 💬 Ask me about **JAVA, Python, Database, WordPress, Figma, React**
 
-- 📫 How to reach me **nehanpavinda@gmail.com**
+- 📫 How to reach me **nehanpavindyavidanaarchchi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
