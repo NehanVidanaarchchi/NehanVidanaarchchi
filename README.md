@@ -1,150 +1,181 @@
-<h1 align="center">Hi 👋, I'm Nehan Pavindya Vidanaarchchi</h1>
-
-<h3 align="center">Full-Stack Engineer | Software Engineering Undergraduate</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nehanvidanaarchchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Nehan's profile views" />
-</p>
-
----
-
-## 👨‍💻 About Me
-
-* 🎓 I’m currently studying **BEng (Hons) Software Engineering at the University of Westminster**
-* 💻 I’m interested in **full-stack development, mobile application development, databases, and UI/UX design**
-* 🌱 I’m currently improving my skills in **React, Flutter, Firebase, Java, and Python**
-* 💬 Ask me about **Java, Python, Databases, WordPress, Figma, React, and Flutter**
-* 📫 Reach me at **[nehanpavindyavidanaarchchi@gmail.com](mailto:nehanpavindyavidanaarchchi@gmail.com)**
-* ⚡ I enjoy transforming ideas into practical and user-friendly software solutions
-
----
-
-## 🤝 Connect With Me
+<h2 align="left">
+  Hi 👋! My name is Nehan Pavindya Vidanaarchchi, and I'm a Full-Stack Engineer from Sri Lanka 🇱🇰
+</h2>
 
 <p align="left">
-  <a href="https://linkedin.com/in/nehan-vidanaarachchi-635335245" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Nehan%20Vidanaarachchi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-
-  <a href="mailto:nehanpavindyavidanaarchchi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
+  🎓 Currently studying <strong>BEng (Hons) Software Engineering at the University of Westminster</strong>
 </p>
-
----
-
-## 🛠️ Languages and Tools
-
-### Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cs,go,rust" alt="Programming Languages" />
+  💻 Interested in full-stack development, mobile application development, databases, and UI/UX design.
 </p>
-
-### Frontend Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,android" alt="Frontend Development" />
+  📫 Contact me at <strong>nehanpavindyavidanaarchchi@gmail.com</strong>
 </p>
 
-### Backend and APIs
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,firebase" alt="Backend Technologies" />
-</p>
-
-### Databases and Cloud
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql,firebase,aws" alt="Databases and Cloud" />
-</p>
-
-### Design and Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode" alt="Design and Development Tools" />
-</p>
-
----
-
-## 📊 GitHub Statistics
+###
 
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=nehanvidanaarchchi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
-    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=nehanvidanaarchchi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+    height="150"
     alt="Nehan's GitHub statistics"
   />
 
 <img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehanvidanaarchchi&layout=compact&langs_count=8&theme=dracula&hide_border=false"
- height="165"
- alt="Nehan's most used languages"
+ src="https://github-readme-stats.vercel.app/api/top-langs?username=nehanvidanaarchchi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+ height="150"
+ alt="Nehan's most used programming languages"
 />
 
 </div>
 
----
+###
 
-## 🔥 GitHub Contribution Streak
+<img
+align="right"
+height="150"
+src="https://i.imgflip.com/65efzo.gif"
+alt="Coding animation"
+/>
 
-<div align="center">
+###
+
+<h3 align="left">Languages and Tools</h3>
+
+<div align="left">
   <img
-    src="https://streak-stats.demolab.com?user=nehanvidanaarchchi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
-    height="170"
-    alt="Nehan's GitHub contribution streak"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+    height="30"
+    alt="JavaScript"
   />
+  <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+ height="30"
+ alt="TypeScript"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+ height="30"
+ alt="React"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
+ height="30"
+ alt="Flutter"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+ height="30"
+ alt="Java"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+ height="30"
+ alt="Python"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+ height="30"
+ alt="HTML5"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+ height="30"
+ alt="CSS3"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+ height="30"
+ alt="MySQL"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
+ height="30"
+ alt="Firebase"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg"
+ height="30"
+ alt="WordPress"
+/> <img width="12" />
+
+<img
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
+ height="30"
+ alt="Figma"
+/>
+
 </div>
 
----
+###
 
-## 🏆 GitHub Trophies
+<h3 align="left">Connect With Me</h3>
 
-<div align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=nehanvidanaarchchi&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4"
-    alt="Nehan's GitHub trophies"
-  />
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=nehanvidanaarchchi&theme=dracula&hide_border=false"
-    alt="Nehan's contribution activity graph"
-  />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake.svg"
-    />
+<div align="left">
+  <a
+    href="mailto:nehanpavindyavidanaarchchi@gmail.com"
+    target="_blank"
+  >
     <img
-      alt="GitHub contribution snake animation"
-      src="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake.svg"
+      src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+      height="35"
+      alt="Gmail"
     />
-  </picture>
-</p>
+  </a>
 
----
+<a
+href="https://linkedin.com/in/nehan-vidanaarachchi-635335245"
+target="_blank"
 
-<div align="center">
+>
 
-### Thanks for visiting my profile! 👋
+```
+<img
+```
 
-⭐ Feel free to explore my repositories and connect with me.
+```
+  src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+  height="35"
+  alt="LinkedIn"
+/>
+```
 
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<h3 align="left">GitHub Contribution Activity</h3>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake.svg"
+/>
+
+<img
+ src="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake.svg"
+ alt="Nehan's GitHub contribution snake animation"
+/> </picture>
+
+###
