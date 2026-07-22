@@ -1,70 +1,150 @@
 <h1 align="center">Hi 👋, I'm Nehan Pavindya Vidanaarchchi</h1>
-<h3 align="center">Fullstack Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehanvidanaarchchi&label=Profile%20views&color=0e75b6&style=flat" alt="nehanvidanaarchchi" /> </p>
-- 🎓 I’m currently learning **BEng(Hons) Software Engineering at University of Westminster**
+<h3 align="center">Full-Stack Engineer | Software Engineering Undergraduate</h3>
 
-- 💬 Ask me about **JAVA, Python, Database, WordPress, Figma, React, Flutter**
-
-- 📫 How to reach me **nehanpavindyavidanaarchchi@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nehan-vidanaarachchi-635335245" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nehan-vidanaarachchi-635335245" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=nehanvidanaarchchi&label=Profile%20Views&color=0e75b6&style=flat" alt="Nehan's profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+---
 
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
+## 👨‍💻 About Me
 
-###
+* 🎓 I’m currently studying **BEng (Hons) Software Engineering at the University of Westminster**
+* 💻 I’m interested in **full-stack development, mobile application development, databases, and UI/UX design**
+* 🌱 I’m currently improving my skills in **React, Flutter, Firebase, Java, and Python**
+* 💬 Ask me about **Java, Python, Databases, WordPress, Figma, React, and Flutter**
+* 📫 Reach me at **[nehanpavindyavidanaarchchi@gmail.com](mailto:nehanpavindyavidanaarchchi@gmail.com)**
+* ⚡ I enjoy transforming ideas into practical and user-friendly software solutions
 
-<div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="60" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="60" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="60" alt="graphql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="60" alt="go logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=rust" height="60" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="60" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/nehan-vidanaarachchi-635335245" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Nehan%20Vidanaarachchi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+
+  <a href="mailto:nehanpavindyavidanaarchchi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+### Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,kotlin,cs,go,rust" alt="Programming Languages" />
+</p>
+
+### Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,flutter,android" alt="Frontend Development" />
+</p>
+
+### Backend and APIs
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nestjs,nodejs,graphql,firebase" alt="Backend Technologies" />
+</p>
+
+### Databases and Cloud
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,firebase,aws" alt="Databases and Cloud" />
+</p>
+
+### Design and Development Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,photoshop,git,github,vscode" alt="Design and Development Tools" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nehanvidanaarchchi&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false"
+    height="165"
+    alt="Nehan's GitHub statistics"
+  />
+
+<img
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=nehanvidanaarchchi&layout=compact&langs_count=8&theme=dracula&hide_border=false"
+ height="165"
+ alt="Nehan's most used languages"
+/>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+## 🔥 GitHub Contribution Streak
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=nehanvidanaarchchi&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5"
+    height="170"
+    alt="Nehan's GitHub contribution streak"
+  />
 </div>
 
-###
+---
 
-<div data-importer="stats" align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nehanvidanaarchchi&theme=dracula&no-frame=false&no-bg=false&margin-w=8&margin-h=8&column=4"
+    alt="Nehan's GitHub trophies"
+  />
 </div>
 
-###
+---
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
+## 📈 Contribution Activity
 
-###
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=nehanvidanaarchchi&theme=dracula&hide_border=false"
+    alt="Nehan's contribution activity graph"
+  />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/nehanvidanaarchchi/nehanvidanaarchchi/output/github-contribution-grid-snake.svg"
+    />
+  </picture>
+</p>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 👋
+
+⭐ Feel free to explore my repositories and connect with me.
+
+</div>
